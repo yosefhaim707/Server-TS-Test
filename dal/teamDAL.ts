@@ -5,7 +5,7 @@ import * as fs from "fs";
 
 
 
-console.log(teams);
+
 
 export function addTeam(team: Team): void {
     teams.push(team);
